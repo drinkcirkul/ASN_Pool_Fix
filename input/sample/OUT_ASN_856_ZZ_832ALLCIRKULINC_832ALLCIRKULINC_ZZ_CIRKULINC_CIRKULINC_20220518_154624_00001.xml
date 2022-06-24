@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Shipments xmlns="http://www.spscommerce.com/RSX">
+    <Shipment>
+        <Header>
+            <ShipmentHeader>
+                <TradingPartnerId>832ALLCIRKULINC</TradingPartnerId>
+                <ShipmentIdentification>00001082</ShipmentIdentification>
+                <ShipDate>2022-04-20</ShipDate>
+                <ShipmentTime>03:46:05</ShipmentTime>
+                <TsetPurposeCode>00</TsetPurposeCode>
+                <ShipNoticeDate>2022-05-18</ShipNoticeDate>
+                <ShipNoticeTime>03:46:05</ShipNoticeTime>
+                <ASNStructureCode>0001</ASNStructureCode>
+                <SellersCurrency />
+                <BillOfLadingNumber>BOL000003</BillOfLadingNumber>
+                <CarrierProNumber>CP13505</CarrierProNumber>
+                <AppointmentNumber>LO13505</AppointmentNumber>
+                <PickupNumber />
+                <ScheduledShipDate>2022-04-20</ScheduledShipDate>
+                <ScheduledShipTime>03:46:05</ScheduledShipTime>
+                <CurrentScheduledDeliveryDate>2022-04-20</CurrentScheduledDeliveryDate>
+                <CurrentScheduledDeliveryTime>03:46:05</CurrentScheduledDeliveryTime>
+                <CurrentScheduledShipDate>2022-04-20</CurrentScheduledShipDate>
+                <CurrentScheduledShipTime>03:46:05</CurrentScheduledShipTime>
+            </ShipmentHeader>
+            <Date>
+                <DateTimeQualifier1>068</DateTimeQualifier1>
+                <Date1>2022-04-20</Date1>
+                <Time1>03:46:05</Time1>
+            </Date>
+            <Reference>
+                <ReferenceQual>MB</ReferenceQual>
+                <ReferenceID>SSH-14731</ReferenceID>
+            </Reference>
+            <Reference>
+                <ReferenceQual>DNN</ReferenceQual>
+                <ReferenceID>SSH-14731</ReferenceID>
+            </Reference>
+            <Contact>
+                <ContactTypeCode>BD</ContactTypeCode>
+                <ContactName>Cirkul, Inc.</ContactName>
+                <PrimaryPhone>-</PrimaryPhone>
+                <PrimaryEmail>-</PrimaryEmail>
+            </Contact>
+            <Contact>
+                <ContactTypeCode>AL</ContactTypeCode>
+                <ContactName>Cirkul, Inc.</ContactName>
+                <PrimaryPhone>-</PrimaryPhone>
+                <PrimaryEmail>-</PrimaryEmail>
+            </Contact>
+            <Address>
+                <AddressTypeCode>ST</AddressTypeCode>
+                <LocationCodeQualifier>92</LocationCodeQualifier>
+                <AddressLocationNumber>0775</AddressLocationNumber>
+                <AddressName>Bed Bath and Beyond Store 0775</AddressName>
+                <Address1>4449 Southmont Way</Address1>
+                <City>Easton</City>
+                <State>PA</State>
+                <PostalCode>18045</PostalCode>
+                <Country>US</Country>
+            </Address>
+            <Address>
+                <AddressTypeCode>RI</AddressTypeCode>
+                <LocationCodeQualifier>92</LocationCodeQualifier>
+                <AddressLocationNumber>123456789</AddressLocationNumber>
+                <AddressName>Cirkul, Inc.</AddressName>
+                <AddressAlternateName />
+                <AddressAlternateName2 />
+                <Address1>4456 Eagle Falls Place </Address1>
+                <Address2 />
+                <Address3 />
+                <Address4 />
+                <City>Tampa</City>
+                <State>FL</State>
+                <PostalCode>33619</PostalCode>
+                <Country>USA</Country>
+            </Address>
+            <Address>
+                <AddressTypeCode>SF</AddressTypeCode>
+                <LocationCodeQualifier>9</LocationCodeQualifier>
+                <AddressLocationNumber>CKL-FL20</AddressLocationNumber>
+                <AddressName>4914 Joanne Kearney Blvd (HQ)</AddressName>
+                <AddressAlternateName />
+                <AddressAlternateName2 />
+                <Address1>4914 Joanne Kearney Blvd</Address1>
+                <Address2 />
+                <Address3 />
+                <Address4 />
+                <City>Tampa</City>
+                <State>FL</State>
+                <PostalCode>33619</PostalCode>
+                <Country>US</Country>
+            </Address>
+            <Address>
+                <AddressTypeCode>VN</AddressTypeCode>
+                <LocationCodeQualifier>92</LocationCodeQualifier>
+                <AddressLocationNumber>71701</AddressLocationNumber>
+                <AddressName>Cirkul, Inc.</AddressName>
+                <Address1>4456 Eagle Falls Place </Address1>
+                <Address2 />
+                <City>Tampa</City>
+                <State>FL</State>
+                <PostalCode>33619</PostalCode>
+                <Country>USA</Country>
+            </Address>
+            <Address>
+                <AddressTypeCode>BY</AddressTypeCode>
+                <LocationCodeQualifier>92</LocationCodeQualifier>
+                <AddressLocationNumber>0775</AddressLocationNumber>
+                <AddressName>Bed Bath and Beyond Store 0775</AddressName>
+                <Address1>4449 Southmont Way</Address1>
+                <City>Easton</City>
+                <State>PA</State>
+                <PostalCode>18045</PostalCode>
+                <Country>US</Country>
+            </Address>
+            <Address>
+                <AddressTypeCode>BT</AddressTypeCode>
+                <LocationCodeQualifier>92</LocationCodeQualifier>
+                <AddressLocationNumber>0775</AddressLocationNumber>
+                <AddressName>Bed Bath and Beyond Store 0775</AddressName>
+                <Address1>4449 Southmont Way</Address1>
+                <City>Easton</City>
+                <State>PA</State>
+                <PostalCode>18045</PostalCode>
+                <Country>US</Country>
+            </Address>
+            <Address>
+                <AddressTypeCode>DA</AddressTypeCode>
+                <LocationCodeQualifier>92</LocationCodeQualifier>
+                <AddressLocationNumber>0775</AddressLocationNumber>
+                <AddressName>Bed Bath and Beyond Store 0775</AddressName>
+                <Address1>4449 Southmont Way</Address1>
+                <City>Easton</City>
+                <State>PA</State>
+                <PostalCode>18045</PostalCode>
+                <Country>US</Country>
+            </Address>
+            <QuantityAndWeight>
+                <PackingMedium>CTN</PackingMedium>
+                <PackingMaterial>25</PackingMaterial>
+                <LadingQuantity>8</LadingQuantity>
+                <WeightQualifier>N</WeightQualifier>
+                <Weight>24.000</Weight>
+                <WeightUOM>LB</WeightUOM>
+                <Volume>.000</Volume>
+                <VolumeUOM>CF</VolumeUOM>
+            </QuantityAndWeight>
+            <CarrierInformation>
+                <StatusCode>CL</StatusCode>
+                <CarrierTransMethodCode>M</CarrierTransMethodCode>
+                <CarrierAlphaCode>FDXG</CarrierAlphaCode>
+                <CarrierRouting>Fedex</CarrierRouting>
+                <EquipmentDescriptionCode>TL</EquipmentDescriptionCode>
+                <CarrierEquipmentNumber>TL13505</CarrierEquipmentNumber>
+            </CarrierInformation>
+            <FOBRelatedInstruction>
+                <FOBPayCode>PP</FOBPayCode>
+                <FOBLocationQualifier>OR</FOBLocationQualifier>
+                <FOBLocationDescription>Tampa FL</FOBLocationDescription>
+                <FOBTitlePassageCode>FL</FOBTitlePassageCode>
+                <FOBTitlePassageLocation>Tampa FL</FOBTitlePassageLocation>
+            </FOBRelatedInstruction>
+        </Header>
+        <OrderLevel>
+            <OrderHeader>
+                <InternalOrderNumber>SO-13505</InternalOrderNumber>
+                <PurchaseOrderNumber>JL4S8RG-0775</PurchaseOrderNumber>
+                <PurchaseOrderDate>2022-04-15</PurchaseOrderDate>
+                <Department>0</Department>
+                <Vendor>071701</Vendor>
+            </OrderHeader>
+            <QuantityAndWeight>
+                <PackingMedium>CTN</PackingMedium>
+                <PackingMaterial>25</PackingMaterial>
+                <LadingQuantity>8</LadingQuantity>
+                <WeightQualifier>N</WeightQualifier>
+                <Weight>24.000</Weight>
+                <WeightUOM>LB</WeightUOM>
+                <Volume />
+                <VolumeUOM>CF</VolumeUOM>
+            </QuantityAndWeight>
+            <CarrierInformation>
+                <StatusCode>SA</StatusCode>
+            </CarrierInformation>
+            <PackLevel>
+                <Pack>
+                    <PackLevelType>P</PackLevelType>
+                    <ShippingSerialID>008500211000065819</ShippingSerialID>
+                </Pack>
+                <PhysicalDetails>
+                    <PackQualifier>OU</PackQualifier>
+                    <PackValue>1</PackValue>
+                    <PackSize>1</PackSize>
+                    <PackUOM>CA</PackUOM>
+                    <PackingMedium>CTN</PackingMedium>
+                    <PackingMaterial>25</PackingMaterial>
+                    <WeightQualifier>N</WeightQualifier>
+                    <PackWeight>.000</PackWeight>
+                    <PackWeightUOM>LB</PackWeightUOM>
+                    <PackLength>0</PackLength>
+                    <PackWidth>0</PackWidth>
+                    <PackHeight>0</PackHeight>
+                    <PackDimensionUOM />
+                </PhysicalDetails>
+                <ItemLevel>
+                    <ShipmentLine>
+                        <LineSequenceNumber>1</LineSequenceNumber>
+                        <BuyerPartNumber />
+                        <VendorPartNumber>CKL-L-FP-2car</VendorPartNumber>
+                        <ConsumerPackageCode>850021373283</ConsumerPackageCode>
+                        <UPCCaseCode />
+                        <GTIN />
+                        <OrderQty>2</OrderQty>
+                        <OrderQtyUOM>CA</OrderQtyUOM>
+                        <PurchasePrice>38.96</PurchasePrice>
+                        <ItemStatusCode>AC</ItemStatusCode>
+                        <ShipQty>1</ShipQty>
+                        <ShipQtyUOM>CA</ShipQtyUOM>
+                    </ShipmentLine>
+                    <PhysicalDetails>
+                        <PackQualifier>OU</PackQualifier>
+                        <PackValue>1</PackValue>
+                        <PackSize>1</PackSize>
+                        <PackUOM>N</PackUOM>
+                        <PackingMedium>CTN</PackingMedium>
+                        <PackingMaterial>25</PackingMaterial>
+                        <WeightQualifier>N</WeightQualifier>
+                        <PackLength>.000</PackLength>
+                        <PackWidth>.000</PackWidth>
+                        <PackHeight>.000</PackHeight>
+                        <PackDimensionUOM />
+                    </PhysicalDetails>
+                    <ProductOrItemDescription>
+                        <ItemDescriptionType>08</ItemDescriptionType>
+                        <AgencyQualifierCode>VI</AgencyQualifierCode>
+                        <ProductDescription>Packed Master Carton 2x2PK Tearways - LifeSip Fruit Punch Cartridges</ProductDescription>
+                    </ProductOrItemDescription>
+                </ItemLevel>
+            </PackLevel>
+            <PackLevel>
+                <Pack>
+                    <PackLevelType>P</PackLevelType>
+                    <ShippingSerialID>008500211000065826</ShippingSerialID>
+                </Pack>
+                <PhysicalDetails>
+                    <PackQualifier>OU</PackQualifier>
+                    <PackValue>1</PackValue>
+                    <PackSize>1</PackSize>
+                    <PackUOM>CA</PackUOM>
+                    <PackingMedium>CTN</PackingMedium>
+                    <PackingMaterial>25</PackingMaterial>
+                    <WeightQualifier>N</WeightQualifier>
+                    <PackWeight>.000</PackWeight>
+                    <PackWeightUOM>LB</PackWeightUOM>
+                    <PackLength>0</PackLength>
+                    <PackWidth>0</PackWidth>
+                    <PackHeight>0</PackHeight>
+                    <PackDimensionUOM />
+                </PhysicalDetails>
+                <ItemLevel>
+                    <ShipmentLine>
+                        <LineSequenceNumber>1</LineSequenceNumber>
+                        <BuyerPartNumber />
+                        <VendorPartNumber>CKL-L-FP-2car</VendorPartNumber>
+                        <ConsumerPackageCode>850021373283</ConsumerPackageCode>
+                        <UPCCaseCode />
+                        <GTIN />
+                        <OrderQty>2</OrderQty>
+                        <OrderQtyUOM>CA</OrderQtyUOM>
+                        <PurchasePrice>38.96</PurchasePrice>
+                        <ItemStatusCode>AC</ItemStatusCode>
+                        <ShipQty>1</ShipQty>
+                        <ShipQtyUOM>CA</ShipQtyUOM>
+                    </ShipmentLine>
+                    <PhysicalDetails>
+                        <PackQualifier>OU</PackQualifier>
+                        <PackValue>1</PackValue>
+                        <PackSize>1</PackSize>
+                        <PackUOM>N</PackUOM>
+                        <PackingMedium>CTN</PackingMedium>
+                        <PackingMaterial>25</PackingMaterial>
+                        <WeightQualifier>N</WeightQualifier>
+                        <PackLength>.000</PackLength>
+                        <PackWidth>.000</PackWidth>
+                        <PackHeight>.000</PackHeight>
+                        <PackDimensionUOM />
+                    </PhysicalDetails>
+                    <ProductOrItemDescription>
+                        <ItemDescriptionType>08</ItemDescriptionType>
+                        <AgencyQualifierCode>VI</AgencyQualifierCode>
+                        <ProductDescription>Packed Master Carton 2x2PK Tearways - LifeSip Fruit Punch Cartridges</ProductDescription>
+                    </ProductOrItemDescription>
+                </ItemLevel>
+            </PackLevel>
+            <PackLevel>
+                <Pack>
+                    <PackLevelType>P</PackLevelType>
+                    <ShippingSerialID>008500211000065833</ShippingSerialID>
+                </Pack>
+                <PhysicalDetails>
+                    <PackQualifier>OU</PackQualifier>
+                    <PackValue>1</PackValue>
+                    <PackSize>1</PackSize>
+                    <PackUOM>CA</PackUOM>
+                    <PackingMedium>CTN</PackingMedium>
+                    <PackingMaterial>25</PackingMaterial>
+                    <WeightQualifier>N</WeightQualifier>
+                    <PackWeight>.000</PackWeight>
+                    <PackWeightUOM>LB</PackWeightUOM>
+                    <PackLength>0</PackLength>
+                    <PackWidth>0</PackWidth>
+                    <PackHeight>0</PackHeight>
+                    <PackDimensionUOM />
+                </PhysicalDetails>
+                <ItemLevel>
+                    <ShipmentLine>
+                        <LineSequenceNumber>2</LineSequenceNumber>
+                        <BuyerPartNumber />
+                        <VendorPartNumber>CKL-F-MB-2car</VendorPartNumber>
+                        <ConsumerPackageCode>850021373313</ConsumerPackageCode>
+                        <UPCCaseCode />
+                        <GTIN />
+                        <OrderQty>1</OrderQty>
+                        <OrderQtyUOM>CA</OrderQtyUOM>
+                        <PurchasePrice>38.96</PurchasePrice>
+                        <ItemStatusCode>AC</ItemStatusCode>
+                        <ShipQty>1</ShipQty>
+                        <ShipQtyUOM>CA</ShipQtyUOM>
+                    </ShipmentLine>
+                    <PhysicalDetails>
+                        <PackQualifier>OU</PackQualifier>
+                        <PackValue>1</PackValue>
+                        <PackSize>1</PackSize>
+                        <PackUOM>N</PackUOM>
+                        <PackingMedium>CTN</PackingMedium>
+                        <PackingMaterial>25</PackingMaterial>
+                        <WeightQualifier>N</WeightQualifier>
+                        <PackLength>.000</PackLength>
+                        <PackWidth>.000</PackWidth>
+                        <PackHeight>.000</PackHeight>
+                        <PackDimensionUOM />
+                    </PhysicalDetails>
+                    <ProductOrItemDescription>
+                        <ItemDescriptionType>08</ItemDescriptionType>
+                        <AgencyQualifierCode>VI</AgencyQualifierCode>
+                        <ProductDescription>Packed Master Carton 2x2PK Tearways - FitSip Mixed Berry Cartridges</ProductDescription>
+                    </ProductOrItemDescription>
+                </ItemLevel>
+            </PackLevel>
+            <PackLevel>
+                <Pack>
+                    <PackLevelType>P</PackLevelType>
+                    <ShippingSerialID>008500211000065840</ShippingSerialID>
+                </Pack>
+                <PhysicalDetails>
+                    <PackQualifier>OU</PackQualifier>
+                    <PackValue>1</PackValue>
+                    <PackSize>1</PackSize>
+                    <PackUOM>CA</PackUOM>
+                    <PackingMedium>CTN</PackingMedium>
+                    <PackingMaterial>25</PackingMaterial>
+                    <WeightQualifier>N</WeightQualifier>
+                    <PackWeight>.000</PackWeight>
+                    <PackWeightUOM>LB</PackWeightUOM>
+                    <PackLength>0</PackLength>
+                    <PackWidth>0</PackWidth>
+                    <PackHeight>0</PackHeight>
+                    <PackDimensionUOM />
+                </PhysicalDetails>
+                <ItemLevel>
+                    <ShipmentLine>
+                        <LineSequenceNumber>3</LineSequenceNumber>
+                        <BuyerPartNumber />
+                        <VendorPartNumber>CKL-F-WC-2car</VendorPartNumber>
+                        <ConsumerPackageCode>850021373320</ConsumerPackageCode>
+                        <UPCCaseCode />
+                        <GTIN />
+                        <OrderQty>2</OrderQty>
+                        <OrderQtyUOM>CA</OrderQtyUOM>
+                        <PurchasePrice>38.96</PurchasePrice>
+                        <ItemStatusCode>AC</ItemStatusCode>
+                        <ShipQty>1</ShipQty>
+                        <ShipQtyUOM>CA</ShipQtyUOM>
+                    </ShipmentLine>
+                    <PhysicalDetails>
+                        <PackQualifier>OU</PackQualifier>
+                        <PackValue>1</PackValue>
+                        <PackSize>1</PackSize>
+                        <PackUOM>N</PackUOM>
+                        <PackingMedium>CTN</PackingMedium>
+                        <PackingMaterial>25</PackingMaterial>
+                        <WeightQualifier>N</WeightQualifier>
+                        <PackLength>.000</PackLength>
+                        <PackWidth>.000</PackWidth>
+                        <PackHeight>.000</PackHeight>
+                        <PackDimensionUOM />
+                    </PhysicalDetails>
+                    <ProductOrItemDescription>
+                        <ItemDescriptionType>08</ItemDescriptionType>
+                        <AgencyQualifierCode>VI</AgencyQualifierCode>
+                        <ProductDescription>Packed Master Carton 2x2PK Tearways - FitSip White Cherry Cartridges</ProductDescription>
+                    </ProductOrItemDescription>
+                </ItemLevel>
+            </PackLevel>
+            <PackLevel>
+                <Pack>
+                    <PackLevelType>P</PackLevelType>
+                    <ShippingSerialID>008500211000065857</ShippingSerialID>
+                </Pack>
+                <PhysicalDetails>
+                    <PackQualifier>OU</PackQualifier>
+                    <PackValue>1</PackValue>
+                    <PackSize>1</PackSize>
+                    <PackUOM>CA</PackUOM>
+                    <PackingMedium>CTN</PackingMedium>
+                    <PackingMaterial>25</PackingMaterial>
+                    <WeightQualifier>N</WeightQualifier>
+                    <PackWeight>.000</PackWeight>
+                    <PackWeightUOM>LB</PackWeightUOM>
+                    <PackLength>0</PackLength>
+                    <PackWidth>0</PackWidth>
+                    <PackHeight>0</PackHeight>
+                    <PackDimensionUOM />
+                </PhysicalDetails>
+                <ItemLevel>
+                    <ShipmentLine>
+                        <LineSequenceNumber>3</LineSequenceNumber>
+                        <BuyerPartNumber />
+                        <VendorPartNumber>CKL-F-WC-2car</VendorPartNumber>
+                        <ConsumerPackageCode>850021373320</ConsumerPackageCode>
+                        <UPCCaseCode />
+                        <GTIN />
+                        <OrderQty>2</OrderQty>
+                        <OrderQtyUOM>CA</OrderQtyUOM>
+                        <PurchasePrice>38.96</PurchasePrice>
+                        <ItemStatusCode>AC</ItemStatusCode>
+                        <ShipQty>1</ShipQty>
+                        <ShipQtyUOM>CA</ShipQtyUOM>
+                    </ShipmentLine>
+                    <PhysicalDetails>
+                        <PackQualifier>OU</PackQualifier>
+                        <PackValue>1</PackValue>
+                        <PackSize>1</PackSize>
+                        <PackUOM>N</PackUOM>
+                        <PackingMedium>CTN</PackingMedium>
+                        <PackingMaterial>25</PackingMaterial>
+                        <WeightQualifier>N</WeightQualifier>
+                        <PackLength>.000</PackLength>
+                        <PackWidth>.000</PackWidth>
+                        <PackHeight>.000</PackHeight>
+                        <PackDimensionUOM />
+                    </PhysicalDetails>
+                    <ProductOrItemDescription>
+                        <ItemDescriptionType>08</ItemDescriptionType>
+                        <AgencyQualifierCode>VI</AgencyQualifierCode>
+                        <ProductDescription>Packed Master Carton 2x2PK Tearways - FitSip White Cherry Cartridges</ProductDescription>
+                    </ProductOrItemDescription>
+                </ItemLevel>
+            </PackLevel>
+            <PackLevel>
+                <Pack>
+                    <PackLevelType>P</PackLevelType>
+                    <ShippingSerialID>008500211000065864</ShippingSerialID>
+                </Pack>
+                <PhysicalDetails>
+                    <PackQualifier>OU</PackQualifier>
+                    <PackValue>1</PackValue>
+                    <PackSize>1</PackSize>
+                    <PackUOM>CA</PackUOM>
+                    <PackingMedium>CTN</PackingMedium>
+                    <PackingMaterial>25</PackingMaterial>
+                    <WeightQualifier>N</WeightQualifier>
+                    <PackWeight>.000</PackWeight>
+                    <PackWeightUOM>LB</PackWeightUOM>
+                    <PackLength>0</PackLength>
+                    <PackWidth>0</PackWidth>
+                    <PackHeight>0</PackHeight>
+                    <PackDimensionUOM />
+                </PhysicalDetails>
+                <ItemLevel>
+                    <ShipmentLine>
+                        <LineSequenceNumber>4</LineSequenceNumber>
+                        <BuyerPartNumber />
+                        <VendorPartNumber>CKL-F-OT-2car</VendorPartNumber>
+                        <ConsumerPackageCode>850021373337</ConsumerPackageCode>
+                        <UPCCaseCode />
+                        <GTIN />
+                        <OrderQty>1</OrderQty>
+                        <OrderQtyUOM>CA</OrderQtyUOM>
+                        <PurchasePrice>38.96</PurchasePrice>
+                        <ItemStatusCode>AC</ItemStatusCode>
+                        <ShipQty>1</ShipQty>
+                        <ShipQtyUOM>CA</ShipQtyUOM>
+                    </ShipmentLine>
+                    <PhysicalDetails>
+                        <PackQualifier>OU</PackQualifier>
+                        <PackValue>1</PackValue>
+                        <PackSize>1</PackSize>
+                        <PackUOM>N</PackUOM>
+                        <PackingMedium>CTN</PackingMedium>
+                        <PackingMaterial>25</PackingMaterial>
+                        <WeightQualifier>N</WeightQualifier>
+                        <PackLength>.000</PackLength>
+                        <PackWidth>.000</PackWidth>
+                        <PackHeight>.000</PackHeight>
+                        <PackDimensionUOM />
+                    </PhysicalDetails>
+                    <ProductOrItemDescription>
+                        <ItemDescriptionType>08</ItemDescriptionType>
+                        <AgencyQualifierCode>VI</AgencyQualifierCode>
+                        <ProductDescription>Packed Master Carton 2x2PK Tearways - FitSip Orange Tangerine Cartridges</ProductDescription>
+                    </ProductOrItemDescription>
+                </ItemLevel>
+            </PackLevel>
+            <PackLevel>
+                <Pack>
+                    <PackLevelType>P</PackLevelType>
+                    <ShippingSerialID>008500211000065871</ShippingSerialID>
+                </Pack>
+                <PhysicalDetails>
+                    <PackQualifier>OU</PackQualifier>
+                    <PackValue>1</PackValue>
+                    <PackSize>1</PackSize>
+                    <PackUOM>CA</PackUOM>
+                    <PackingMedium>CTN</PackingMedium>
+                    <PackingMaterial>25</PackingMaterial>
+                    <WeightQualifier>N</WeightQualifier>
+                    <PackWeight>.000</PackWeight>
+                    <PackWeightUOM>LB</PackWeightUOM>
+                    <PackLength>0</PackLength>
+                    <PackWidth>0</PackWidth>
+                    <PackHeight>0</PackHeight>
+                    <PackDimensionUOM />
+                </PhysicalDetails>
+                <ItemLevel>
+                    <ShipmentLine>
+                        <LineSequenceNumber>5</LineSequenceNumber>
+                        <BuyerPartNumber />
+                        <VendorPartNumber>CKL-G-BC-2car</VendorPartNumber>
+                        <ConsumerPackageCode>850021373351</ConsumerPackageCode>
+                        <UPCCaseCode />
+                        <GTIN />
+                        <OrderQty>1</OrderQty>
+                        <OrderQtyUOM>CA</OrderQtyUOM>
+                        <PurchasePrice>38.96</PurchasePrice>
+                        <ItemStatusCode>AC</ItemStatusCode>
+                        <ShipQty>1</ShipQty>
+                        <ShipQtyUOM>CA</ShipQtyUOM>
+                    </ShipmentLine>
+                    <PhysicalDetails>
+                        <PackQualifier>OU</PackQualifier>
+                        <PackValue>1</PackValue>
+                        <PackSize>1</PackSize>
+                        <PackUOM>N</PackUOM>
+                        <PackingMedium>CTN</PackingMedium>
+                        <PackingMaterial>25</PackingMaterial>
+                        <WeightQualifier>N</WeightQualifier>
+                        <PackLength>.000</PackLength>
+                        <PackWidth>.000</PackWidth>
+                        <PackHeight>.000</PackHeight>
+                        <PackDimensionUOM />
+                    </PhysicalDetails>
+                    <ProductOrItemDescription>
+                        <ItemDescriptionType>08</ItemDescriptionType>
+                        <AgencyQualifierCode>VI</AgencyQualifierCode>
+                        <ProductDescription>Packed Master Carton 2x2PK Tearways - GoSip Black Cherry Cartridges</ProductDescription>
+                    </ProductOrItemDescription>
+                </ItemLevel>
+            </PackLevel>
+            <PackLevel>
+                <Pack>
+                    <PackLevelType>P</PackLevelType>
+                    <ShippingSerialID>008500211000065888</ShippingSerialID>
+                </Pack>
+                <PhysicalDetails>
+                    <PackQualifier>OU</PackQualifier>
+                    <PackValue>1</PackValue>
+                    <PackSize>1</PackSize>
+                    <PackUOM>CA</PackUOM>
+                    <PackingMedium>CTN</PackingMedium>
+                    <PackingMaterial>25</PackingMaterial>
+                    <WeightQualifier>N</WeightQualifier>
+                    <PackWeight>.000</PackWeight>
+                    <PackWeightUOM>LB</PackWeightUOM>
+                    <PackLength>0</PackLength>
+                    <PackWidth>0</PackWidth>
+                    <PackHeight>0</PackHeight>
+                    <PackDimensionUOM />
+                </PhysicalDetails>
+                <ItemLevel>
+                    <ShipmentLine>
+                        <LineSequenceNumber>6</LineSequenceNumber>
+                        <BuyerPartNumber />
+                        <VendorPartNumber>CKL-G-G-2car</VendorPartNumber>
+                        <ConsumerPackageCode>850021373368</ConsumerPackageCode>
+                        <UPCCaseCode />
+                        <GTIN />
+                        <OrderQty>1</OrderQty>
+                        <OrderQtyUOM>CA</OrderQtyUOM>
+                        <PurchasePrice>38.96</PurchasePrice>
+                        <ItemStatusCode>AC</ItemStatusCode>
+                        <ShipQty>1</ShipQty>
+                        <ShipQtyUOM>CA</ShipQtyUOM>
+                    </ShipmentLine>
+                    <PhysicalDetails>
+                        <PackQualifier>OU</PackQualifier>
+                        <PackValue>1</PackValue>
+                        <PackSize>1</PackSize>
+                        <PackUOM>N</PackUOM>
+                        <PackingMedium>CTN</PackingMedium>
+                        <PackingMaterial>25</PackingMaterial>
+                        <WeightQualifier>N</WeightQualifier>
+                        <PackLength>.000</PackLength>
+                        <PackWidth>.000</PackWidth>
+                        <PackHeight>.000</PackHeight>
+                        <PackDimensionUOM />
+                    </PhysicalDetails>
+                    <ProductOrItemDescription>
+                        <ItemDescriptionType>08</ItemDescriptionType>
+                        <AgencyQualifierCode>VI</AgencyQualifierCode>
+                        <ProductDescription>Packed Master Carton 2x2PK Tearways - GoSip Grape Cartridges</ProductDescription>
+                    </ProductOrItemDescription>
+                </ItemLevel>
+            </PackLevel>
+        </OrderLevel>
+        <Summary>
+            <TotalOrders>1</TotalOrders>
+            <TotalLineItems>8</TotalLineItems>
+            <TotalQuantity>8</TotalQuantity>
+            <TotalWeight>24.000</TotalWeight>
+        </Summary>
+    </Shipment>
+</Shipments>

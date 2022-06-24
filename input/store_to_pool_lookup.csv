@@ -1,0 +1,927 @@
+Store#,Pool_ID,Pool#,AddressName
+0001,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0006,SPR,2690,Palmer Dedicated Logistics
+0008,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0009,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0012,SPR,2690,Palmer Dedicated Logistics
+0020,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0023,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0024,STK,2680,Glibert Company
+0025,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0026,STK,2680,Glibert Company
+0027,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0029,BAL,2664,International Distribution Group
+0031,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0032,CHI,2625,Demar Logistics
+0033,BAL,2664,International Distribution Group
+0034,MIA,2673,International Distribution Group
+0035,BAL,2664,International Distribution Group
+0036,CHI,2625,Demar Logistics
+0037,LIS,2654,Int'l Warehouse Group
+0038,STK,2680,Glibert Company
+0039,CHI,2625,Demar Logistics
+0040,SPR,2690,Palmer Dedicated Logistics
+0042,NA,NA,NA
+0043,DET,2686,Tantara
+0044,DET,2686,Tantara
+0045,HOU,2659,Pathmark Transportation - HOU
+0046,MIA,2673,International Distribution Group
+0047,PHO,2642,Phoenix -Legacy SCS
+0049,DET,2686,Tantara
+0051,HOU,2659,Pathmark Transportation - HOU
+0052,BAL,2664,International Distribution Group
+0053,CHI,2625,Demar Logistics
+0054,CLE,2674,Beitler Final Mile LLC
+0055,MIA,2673,International Distribution Group
+0057,ATL,2689,HNRY Logistics
+0058,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0059,MIA,2673,International Distribution Group
+0060,CLE,2674,Beitler Final Mile LLC
+0061,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+0063,CHI,2625,Demar Logistics
+0064,CHI,2625,Demar Logistics
+0065,BAL,2664,International Distribution Group
+0066,ATL,2689,HNRY Logistics
+0067,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+0068,DEN,2682,Freight Systems 
+0069,ORL,2651,Pathmark Transportation -ORL
+0080,ATL,2689,HNRY Logistics
+0082,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+0083,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0085,SEA,2687,Schneider Logistics
+0086,KCM,2646,"24/7 Express Logistics, Inc."
+0087,KCM,2646,"24/7 Express Logistics, Inc."
+0088,HOU,2659,Pathmark Transportation - HOU
+0090,ORL,2651,Pathmark Transportation -ORL
+0092,MIA,2673,International Distribution Group
+0094,BAL,2664,International Distribution Group
+0097,HOU,2659,Pathmark Transportation - HOU
+0098,ATL,2689,HNRY Logistics
+0099,ORL,2651,Pathmark Transportation -ORL
+0101,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0102,SPR,2690,Palmer Dedicated Logistics
+0103,ATL,2689,HNRY Logistics
+0106,BAL,2664,International Distribution Group
+0107,KCM,2646,"24/7 Express Logistics, Inc."
+0108,CHI,2625,Demar Logistics
+0110,BAL,2664,International Distribution Group
+0111,PHO,2642,Phoenix -Legacy SCS
+0113,DET,2686,Tantara
+0114,BAL,2664,International Distribution Group
+0115,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0116,HOU,2659,Pathmark Transportation - HOU
+0118,ATL,2689,HNRY Logistics
+0119,CLE,2674,Beitler Final Mile LLC
+0121,MEM,2670,Pathmark Transportation - MEM
+0122,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0123,CHR,2662,Distribution Technology
+0124,CHR,2662,Distribution Technology
+0125,BUF,2668,Regional Integrated Logistics
+0126,HOU,2659,Pathmark Transportation - HOU
+0127,STK,2680,Glibert Company
+0128,MIA,2673,International Distribution Group
+0129,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+0131,BUF,2668,Regional Integrated Logistics
+0132,CHI,2625,Demar Logistics
+0133,CHI,2625,Demar Logistics
+0134,HOU,2659,Pathmark Transportation - HOU
+0135,LIS,2654,Int'l Warehouse Group
+0136,SEA,2687,Schneider Logistics
+0137,DEN,2682,Freight Systems 
+0138,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0139,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0141,HOU,2659,Pathmark Transportation - HOU
+0147,KCM,2646,"24/7 Express Logistics, Inc."
+0148,ATL,2689,HNRY Logistics
+0149,SPR,2690,Palmer Dedicated Logistics
+0150,MIA,2673,International Distribution Group
+0151,KCM,2646,"24/7 Express Logistics, Inc."
+0153,BUF,2668,Regional Integrated Logistics
+0154,ORL,2651,Pathmark Transportation -ORL
+0155,CHR,2662,Distribution Technology
+0156,BAL,2664,International Distribution Group
+0157,KCM,2646,"24/7 Express Logistics, Inc."
+0159,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0160,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0161,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0164,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+0165,CHI,2625,Demar Logistics
+0166,DET,2686,Tantara
+0168,ATL,2689,HNRY Logistics
+0169,BAL,2664,International Distribution Group
+0170,KCM,2646,"24/7 Express Logistics, Inc."
+0171,ORL,2651,Pathmark Transportation -ORL
+0172,BAL,2664,International Distribution Group
+0173,STK,2680,Glibert Company
+0176,KCM,2646,"24/7 Express Logistics, Inc."
+0177,ATL,2689,HNRY Logistics
+0178,ORL,2651,Pathmark Transportation -ORL
+0179,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0181,SPR,2690,Palmer Dedicated Logistics
+0183,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0185,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0186,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0187,CHI,2625,Demar Logistics
+0188,BAL,2664,International Distribution Group
+0189,PHO,2642,Phoenix -Legacy SCS
+0190,CHI,2625,Demar Logistics
+0192,BAL,2664,International Distribution Group
+0194,DEN,2682,Freight Systems 
+0195,CLE,2674,Beitler Final Mile LLC
+0196,BAL,2664,International Distribution Group
+0197,MIA,2673,International Distribution Group
+0199,CHR,2662,Distribution Technology
+0200,DEN,2682,Freight Systems 
+0202,DET,2686,Tantara
+0204,CLE,2674,Beitler Final Mile LLC
+0205,DET,2686,Tantara
+0207,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0208,SLC,2647,Freight Systems Incorporated
+0211,KCM,2646,"24/7 Express Logistics, Inc."
+0212,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0213,MIA,2673,International Distribution Group
+0214,ORL,2651,Pathmark Transportation -ORL
+0215,CHI,2625,Demar Logistics
+0216,SEA,2687,Schneider Logistics
+0219,KCM,2646,"24/7 Express Logistics, Inc."
+0222,CHI,2625,Demar Logistics
+0223,STK,2680,Glibert Company
+0224,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0225,STK,2680,Glibert Company
+0227,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0228,MEM,2670,Pathmark Transportation - MEM
+0231,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+0233,PHO,2642,Phoenix -Legacy SCS
+0234,DET,2686,Tantara
+0235,ORL,2651,Pathmark Transportation -ORL
+0236,ORL,2651,Pathmark Transportation -ORL
+0237,CHR,2662,Distribution Technology
+0242,CHI,2625,Demar Logistics
+0243,KCM,2646,"24/7 Express Logistics, Inc."
+0245,ORL,2651,Pathmark Transportation -ORL
+0247,LIS,2654,Int'l Warehouse Group
+0248,MEM,2670,Pathmark Transportation - MEM
+0250,SEA,2687,Schneider Logistics
+0251,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0252,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0254,STK,2680,Glibert Company
+0255,ATL,2689,HNRY Logistics
+0258,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0260,LIS,2654,Int'l Warehouse Group
+0261,STK,2680,Glibert Company
+0265,MEM,2670,Pathmark Transportation - MEM
+0266,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0268,CHR,2662,Distribution Technology
+0269,BAL,2664,International Distribution Group
+0271,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0272,HOU,2659,Pathmark Transportation - HOU
+0273,MIA,2673,International Distribution Group
+0275,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0278,KCM,2646,"24/7 Express Logistics, Inc."
+0279,DEN,2682,Freight Systems 
+0280,ATL,2689,HNRY Logistics
+0282,ORL,2651,Pathmark Transportation -ORL
+0283,ORL,2651,Pathmark Transportation -ORL
+0284,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0285,MIA,2673,International Distribution Group
+0288,DET,2686,Tantara
+0289,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0290,CHI,2625,Demar Logistics
+0291,MIA,2673,International Distribution Group
+0292,SLC,2647,Freight Systems Incorporated
+0293,MEM,2670,Pathmark Transportation - MEM
+0294,SLC,2647,Freight Systems Incorporated
+0295,DET,2686,Tantara
+0296,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0298,CHR,2662,Distribution Technology
+0301,CLE,2674,Beitler Final Mile LLC
+0302,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0303,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0305,HOU,2659,Pathmark Transportation - HOU
+0307,STK,2680,Glibert Company
+0309,CHR,2662,Distribution Technology
+0311,SPR,2690,Palmer Dedicated Logistics
+0312,STK,2680,Glibert Company
+0313,ATL,2689,HNRY Logistics
+0314,SEA,2687,Schneider Logistics
+0315,STK,2680,Glibert Company
+0316,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0317,CHR,2662,Distribution Technology
+0318,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+0319,SEA,2687,Schneider Logistics
+0321,MEM,2670,Pathmark Transportation - MEM
+0322,CHI,2625,Demar Logistics
+0324,BAL,2664,International Distribution Group
+0325,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0326,KCM,2646,"24/7 Express Logistics, Inc."
+0327,CHR,2662,Distribution Technology
+0328,KCM,2646,"24/7 Express Logistics, Inc."
+0330,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+0331,STK,2680,Glibert Company
+0333,SLC,2647,Freight Systems Incorporated
+0335,CHI,2625,Demar Logistics
+0336,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0337,BUF,2668,Regional Integrated Logistics
+0338,DEN,2682,Freight Systems 
+0339,MEM,2670,Pathmark Transportation - MEM
+0341,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+0342,CHI,2625,Demar Logistics
+0347,MIA,2673,International Distribution Group
+0348,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0349,CHR,2662,Distribution Technology
+0350,SPR,2690,Palmer Dedicated Logistics
+0352,PHO,2642,Phoenix -Legacy SCS
+0355,DEN,2682,Freight Systems 
+0356,PHO,2642,Phoenix -Legacy SCS
+0358,CLE,2674,Beitler Final Mile LLC
+0359,MIA,2673,International Distribution Group
+0362,SEA,2687,Schneider Logistics
+0363,DET,2686,Tantara
+0364,DET,2686,Tantara
+0365,SPR,2690,Palmer Dedicated Logistics
+0366,CHI,2625,Demar Logistics
+0367,CHR,2662,Distribution Technology
+0368,DET,2686,Tantara
+0369,DET,2686,Tantara
+0370,CLE,2674,Beitler Final Mile LLC
+0371,SEA,2687,Schneider Logistics
+0372,SPR,2690,Palmer Dedicated Logistics
+0374,SEA,2687,Schneider Logistics
+0375,DET,2686,Tantara
+0377,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0378,DET,2686,Tantara
+0379,KCM,2646,"24/7 Express Logistics, Inc."
+0380,SPR,2690,Palmer Dedicated Logistics
+0381,ORL,2651,Pathmark Transportation -ORL
+0383,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0384,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0385,MIA,2673,International Distribution Group
+0388,ORL,2651,Pathmark Transportation -ORL
+0389,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0390,MEM,2670,Pathmark Transportation - MEM
+0393,BAL,2664,International Distribution Group
+0394,LIS,2654,Int'l Warehouse Group
+0395,DET,2686,Tantara
+0398,MEM,2670,Pathmark Transportation - MEM
+0399,DET,2686,Tantara
+0400,ATL,2689,HNRY Logistics
+0401,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0402,CHI,2625,Demar Logistics
+0403,MEM,2670,Pathmark Transportation - MEM
+0404,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+0405,ATL,2689,HNRY Logistics
+0406,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+0407,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0408,DEN,2682,Freight Systems 
+0409,STK,2680,Glibert Company
+0412,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0413,DET,2686,Tantara
+0414,CHI,2625,Demar Logistics
+0415,CHI,2625,Demar Logistics
+0417,SEA,2687,Schneider Logistics
+0418,CHR,2662,Distribution Technology
+0420,DET,2686,Tantara
+0422,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0423,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0424,MIA,2673,International Distribution Group
+0425,DET,2686,Tantara
+0426,CHR,2662,Distribution Technology
+0427,CHR,2662,Distribution Technology
+0428,CHI,2625,Demar Logistics
+0429,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+0430,HOU,2659,Pathmark Transportation - HOU
+0431,SEA,2687,Schneider Logistics
+0432,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0433,SPR,2690,Palmer Dedicated Logistics
+0435,CHR,2662,Distribution Technology
+0436,DEN,2682,Freight Systems 
+0437,CHR,2662,Distribution Technology
+0438,DEN,2682,Freight Systems 
+0439,BAL,2664,International Distribution Group
+0440,CHR,2662,Distribution Technology
+0442,HOU,2659,Pathmark Transportation - HOU
+0443,HOU,2659,Pathmark Transportation - HOU
+0444,KCM,2646,"24/7 Express Logistics, Inc."
+0445,SEA,2687,Schneider Logistics
+0446,DET,2686,Tantara
+0447,BUF,2668,Regional Integrated Logistics
+0449,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0450,SPR,2690,Palmer Dedicated Logistics
+0453,SPR,2690,Palmer Dedicated Logistics
+0454,MIA,2673,International Distribution Group
+0456,CHI,2625,Demar Logistics
+0457,CHI,2625,Demar Logistics
+0460,KCM,2646,"24/7 Express Logistics, Inc."
+0461,BUF,2668,Regional Integrated Logistics
+0462,CLE,2674,Beitler Final Mile LLC
+0463,SEA,2687,Schneider Logistics
+0464,CHR,2662,Distribution Technology
+0466,CHR,2662,Distribution Technology
+0467,LIS,2654,Int'l Warehouse Group
+0468,SPR,2690,Palmer Dedicated Logistics
+0469,LIS,2654,Int'l Warehouse Group
+0470,ATL,2689,HNRY Logistics
+0471,DEN,2682,Freight Systems 
+0472,SEA,2687,Schneider Logistics
+0473,ATL,2689,HNRY Logistics
+0474,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0475,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0476,MEM,2670,Pathmark Transportation - MEM
+0477,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0478,SEA,2687,Schneider Logistics
+0479,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0480,ORL,2651,Pathmark Transportation -ORL
+0481,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+0482,CHI,2625,Demar Logistics
+0483,CHR,2662,Distribution Technology
+0484,ORL,2651,Pathmark Transportation -ORL
+0485,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0486,CHI,2625,Demar Logistics
+0487,SPR,2690,Palmer Dedicated Logistics
+0488,STK,2680,Glibert Company
+0489,STK,2680,Glibert Company
+0490,KCM,2646,"24/7 Express Logistics, Inc."
+0491,PHO,2642,Phoenix -Legacy SCS
+0492,MEM,2670,Pathmark Transportation - MEM
+0494,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0496,DET,2686,Tantara
+0497,ATL,2689,HNRY Logistics
+0499,CHI,2625,Demar Logistics
+0500,CHR,2662,Distribution Technology
+0502,HOU,2659,Pathmark Transportation - HOU
+0503,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0504,HOU,2659,Pathmark Transportation - HOU
+0505,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0507,LIS,2654,Int'l Warehouse Group
+0510,DET,2686,Tantara
+0511,BUF,2668,Regional Integrated Logistics
+0512,MEM,2670,Pathmark Transportation - MEM
+0514,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+0515,BUF,2668,Regional Integrated Logistics
+0517,MEM,2670,Pathmark Transportation - MEM
+0518,MIA,2673,International Distribution Group
+0519,HOU,2659,Pathmark Transportation - HOU
+0520,DET,2686,Tantara
+0521,SPR,2690,Palmer Dedicated Logistics
+0522,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0523,ORL,2651,Pathmark Transportation -ORL
+0524,PHO,2642,Phoenix -Legacy SCS
+0525,MEM,2670,Pathmark Transportation - MEM
+0526,DET,2686,Tantara
+0527,STK,2680,Glibert Company
+0529,CHR,2662,Distribution Technology
+0530,CHI,2625,Demar Logistics
+0532,BUF,2668,Regional Integrated Logistics
+0533,MEM,2670,Pathmark Transportation - MEM
+0534,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0535,HOU,2659,Pathmark Transportation - HOU
+0538,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0539,STK,2680,Glibert Company
+0540,STK,2680,Glibert Company
+0542,SPR,2690,Palmer Dedicated Logistics
+0543,ORL,2651,Pathmark Transportation -ORL
+0544,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+0547,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+0548,MEM,2670,Pathmark Transportation - MEM
+0550,SPR,2690,Palmer Dedicated Logistics
+0551,ORL,2651,Pathmark Transportation -ORL
+0552,CHI,2625,Demar Logistics
+0553,LIS,2654,Int'l Warehouse Group
+0554,BAL,2664,International Distribution Group
+0555,SPR,2690,Palmer Dedicated Logistics
+0556,ORL,2651,Pathmark Transportation -ORL
+0557,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+0558,ATL,2689,HNRY Logistics
+0559,SEA,2687,Schneider Logistics
+0560,CHR,2662,Distribution Technology
+0561,CHI,2625,Demar Logistics
+0562,STK,2680,Glibert Company
+0563,SLC,2647,Freight Systems Incorporated
+0564,DET,2686,Tantara
+0565,NA,NA,NA
+0567,SPR,2690,Palmer Dedicated Logistics
+0569,STK,2680,Glibert Company
+0570,BAL,2664,International Distribution Group
+0571,HOU,2659,Pathmark Transportation - HOU
+0573,PHO,2642,Phoenix -Legacy SCS
+0574,SEA,2687,Schneider Logistics
+0576,CLE,2674,Beitler Final Mile LLC
+0577,ORL,2651,Pathmark Transportation -ORL
+0579,MIA,2673,International Distribution Group
+0580,HOU,2659,Pathmark Transportation - HOU
+0581,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0582,MEM,2670,Pathmark Transportation - MEM
+0583,STK,2680,Glibert Company
+0584,KCM,2646,"24/7 Express Logistics, Inc."
+0585,HOU,2659,Pathmark Transportation - HOU
+0587,STK,2680,Glibert Company
+0588,CHI,2625,Demar Logistics
+0589,MEM,2670,Pathmark Transportation - MEM
+0590,MEM,2670,Pathmark Transportation - MEM
+0591,PHO,2642,Phoenix -Legacy SCS
+0592,CHR,2662,Distribution Technology
+0593,CHR,2662,Distribution Technology
+0594,CHI,2625,Demar Logistics
+0596,MEM,2670,Pathmark Transportation - MEM
+0601,NA,NA,NA
+0602,NA,NA,NA
+0604,MEM,2670,Pathmark Transportation - MEM
+0605,DEN,2682,Freight Systems 
+0606,PHO,2642,Phoenix -Legacy SCS
+0607,CLE,2674,Beitler Final Mile LLC
+0609,SEA,2687,Schneider Logistics
+0610,DET,2686,Tantara
+0611,MEM,2670,Pathmark Transportation - MEM
+0612,SPR,2690,Palmer Dedicated Logistics
+0615,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+0619,SPR,2690,Palmer Dedicated Logistics
+0620,NA,NA,NA
+0621,SPR,2690,Palmer Dedicated Logistics
+0623,CHI,2625,Demar Logistics
+0626,SLC,2647,Freight Systems Incorporated
+0628,CHI,2625,Demar Logistics
+0629,LIS,2654,Int'l Warehouse Group
+0630,CHR,2662,Distribution Technology
+0632,PHO,2642,Phoenix -Legacy SCS
+0636,STK,2680,Glibert Company
+0640,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0644,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0650,NA,NA,NA
+0651,NA,NA,NA
+0653,NA,NA,NA
+0655,NA,NA,NA
+0657,NA,NA,NA
+0664,NA,NA,NA
+0666,NA,NA,NA
+0672,NA,NA,NA
+0673,NA,NA,NA
+0675,NA,NA,NA
+0677,NA,NA,NA
+0680,NA,NA,NA
+0682,NA,NA,NA
+0684,NA,NA,NA
+0686,NA,NA,NA
+0690,BAL,2664,International Distribution Group
+0693,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0754,LIS,2654,Int'l Warehouse Group
+0756,SPR,2690,Palmer Dedicated Logistics
+0757,BUF,2668,Regional Integrated Logistics
+0759,ORL,2651,Pathmark Transportation -ORL
+0760,SEA,2687,Schneider Logistics
+0761,KCM,2646,"24/7 Express Logistics, Inc."
+0762,DET,2686,Tantara
+0763,SPR,2690,Palmer Dedicated Logistics
+0764,SLC,2647,Freight Systems Incorporated
+0765,BAL,2664,International Distribution Group
+0766,PHO,2642,Phoenix -Legacy SCS
+0767,LIS,2654,Int'l Warehouse Group
+0768,CLE,2674,Beitler Final Mile LLC
+0769,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+0770,LIS,2654,Int'l Warehouse Group
+0771,KCM,2646,"24/7 Express Logistics, Inc."
+0772,CHR,2662,Distribution Technology
+0773,MEM,2670,Pathmark Transportation - MEM
+0774,CHR,2662,Distribution Technology
+0775,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0776,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0777,SLC,2647,Freight Systems Incorporated
+0778,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+0779,CHR,2662,Distribution Technology
+0780,BAL,2664,International Distribution Group
+0781,SPR,2690,Palmer Dedicated Logistics
+0783,SLC,2647,Freight Systems Incorporated
+0784,CLE,2674,Beitler Final Mile LLC
+0785,SPR,2690,Palmer Dedicated Logistics
+0788,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0789,BUF,2668,Regional Integrated Logistics
+0790,PHO,2642,Phoenix -Legacy SCS
+0791,CHI,2625,Demar Logistics
+0800,MEM,2670,Pathmark Transportation - MEM
+0801,MEM,2670,Pathmark Transportation - MEM
+0803,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+0804,CLE,2674,Beitler Final Mile LLC
+0805,BAL,2664,International Distribution Group
+0807,PHO,2642,Phoenix -Legacy SCS
+0808,ORL,2651,Pathmark Transportation -ORL
+0810,SPR,2690,Palmer Dedicated Logistics
+0812,SEA,2687,Schneider Logistics
+0815,CHI,2625,Demar Logistics
+0816,CHI,2625,Demar Logistics
+0817,CLE,2674,Beitler Final Mile LLC
+0819,BAL,2664,International Distribution Group
+0820,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0821,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+0823,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+0824,BUF,2668,Regional Integrated Logistics
+0825,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+0828,BUF,2668,Regional Integrated Logistics
+0829,SPR,2690,Palmer Dedicated Logistics
+0830,STK,2680,Glibert Company
+0832,CHR,2662,Distribution Technology
+0833,ORL,2651,Pathmark Transportation -ORL
+0834,MEM,2670,Pathmark Transportation - MEM
+0836,SPR,2690,Palmer Dedicated Logistics
+0837,SPR,2690,Palmer Dedicated Logistics
+0838,DEN,2682,Freight Systems 
+0839,CHI,2625,Demar Logistics
+0841,SPR,2690,Palmer Dedicated Logistics
+0843,LIS,2654,Int'l Warehouse Group
+0844,SPR,2690,Palmer Dedicated Logistics
+0845,HOU,2659,Pathmark Transportation - HOU
+0846,MIA,2673,International Distribution Group
+0848,KCM,2646,"24/7 Express Logistics, Inc."
+0849,SPR,2690,Palmer Dedicated Logistics
+0850,LIS,2654,Int'l Warehouse Group
+0851,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+1001,HOU,2659,Pathmark Transportation - HOU
+1002,HOU,2659,Pathmark Transportation - HOU
+1003,CHI,2625,Demar Logistics
+1006,DET,2686,Tantara
+1009,LIS,2654,Int'l Warehouse Group
+1011,CHR,2662,Distribution Technology
+1013,DEN,2682,Freight Systems 
+1014,ATL,2689,HNRY Logistics
+1019,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+1020,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+1021,KCM,2646,"24/7 Express Logistics, Inc."
+1022,CHR,2662,Distribution Technology
+1023,SPR,2690,Palmer Dedicated Logistics
+1024,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+1025,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+1027,BAL,2664,International Distribution Group
+1028,ORL,2651,Pathmark Transportation -ORL
+1029,MEM,2670,Pathmark Transportation - MEM
+1030,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+1033,PHO,2642,Phoenix -Legacy SCS
+1034,SPR,2690,Palmer Dedicated Logistics
+1035,ATL,2689,HNRY Logistics
+1039,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+1040,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+1041,KCM,2646,"24/7 Express Logistics, Inc."
+1043,CLE,2674,Beitler Final Mile LLC
+1044,SPR,2690,Palmer Dedicated Logistics
+1045,BAL,2664,International Distribution Group
+1047,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+1050,KCM,2646,"24/7 Express Logistics, Inc."
+1052,DEN,2682,Freight Systems 
+1053,CLE,2674,Beitler Final Mile LLC
+1056,BUF,2668,Regional Integrated Logistics
+1059,BUF,2668,Regional Integrated Logistics
+1061,CLE,2674,Beitler Final Mile LLC
+1062,MEM,2670,Pathmark Transportation - MEM
+1063,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+1065,KCM,2646,"24/7 Express Logistics, Inc."
+1068,SEA,2687,Schneider Logistics
+1069,HOU,2659,Pathmark Transportation - HOU
+1072,SLC,2647,Freight Systems Incorporated
+1073,SLC,2647,Freight Systems Incorporated
+1074,DEN,2682,Freight Systems 
+1075,CHI,2625,Demar Logistics
+1077,PHO,2642,Phoenix -Legacy SCS
+1078,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+1079,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+1080,HOU,2659,Pathmark Transportation - HOU
+1082,DET,2686,Tantara
+1088,CHI,2625,Demar Logistics
+1089,ATL,2689,HNRY Logistics
+1090,SPR,2690,Palmer Dedicated Logistics
+1091,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+1093,SPR,2690,Palmer Dedicated Logistics
+1094,ATL,2689,HNRY Logistics
+1096,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+1097,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+1098,SLC,2647,Freight Systems Incorporated
+1100,SPR,2690,Palmer Dedicated Logistics
+1103,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+1105,PHO,2642,Phoenix -Legacy SCS
+1107,HOU,2659,Pathmark Transportation - HOU
+1108,DEN,2682,Freight Systems 
+1109,MEM,2670,Pathmark Transportation - MEM
+1110,MIA,2673,International Distribution Group
+1111,BUF,2668,Regional Integrated Logistics
+1112,SPR,2690,Palmer Dedicated Logistics
+1113,BAL,2664,International Distribution Group
+1114,SLC,2647,Freight Systems Incorporated
+1115,SLC,2647,Freight Systems Incorporated
+1117,HOU,2659,Pathmark Transportation - HOU
+1119,ATL,2689,HNRY Logistics
+1120,LIS,2654,Int'l Warehouse Group
+1121,STK,2680,Glibert Company
+1125,MIA,2673,International Distribution Group
+1126,CHR,2662,Distribution Technology
+1127,SEA,2687,Schneider Logistics
+1129,SEA,2687,Schneider Logistics
+1130,SEA,2687,Schneider Logistics
+1131,ORL,2651,Pathmark Transportation -ORL
+1132,MIA,2673,International Distribution Group
+1133,PHO,2642,Phoenix -Legacy SCS
+1134,CHR,2662,Distribution Technology
+1135,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+1137,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+1138,ORL,2651,Pathmark Transportation -ORL
+1139,STK,2680,Glibert Company
+1142,KCM,2646,"24/7 Express Logistics, Inc."
+1143,ORL,2651,Pathmark Transportation -ORL
+1145,DET,2686,Tantara
+1147,DEN,2682,Freight Systems 
+1148,PHO,2642,Phoenix -Legacy SCS
+1149,KCM,2646,"24/7 Express Logistics, Inc."
+1150,SPR,2690,Palmer Dedicated Logistics
+1151,PHO,2642,Phoenix -Legacy SCS
+1153,SPR,2690,Palmer Dedicated Logistics
+1154,DET,2686,Tantara
+1155,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+1157,SLC,2647,Freight Systems Incorporated
+1158,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+1161,HOU,2659,Pathmark Transportation - HOU
+1162,PHO,2642,Phoenix -Legacy SCS
+1168,SLC,2647,Freight Systems Incorporated
+1169,ATL,2689,HNRY Logistics
+1170,ATL,2689,HNRY Logistics
+1172,HOU,2659,Pathmark Transportation - HOU
+1174,SPR,2690,Palmer Dedicated Logistics
+1175,SEA,2687,Schneider Logistics
+1176,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+1177,BAL,2664,International Distribution Group
+1178,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+1179,CHR,2662,Distribution Technology
+1182,CLE,2674,Beitler Final Mile LLC
+1183,ATL,2689,HNRY Logistics
+1186,SPR,2690,Palmer Dedicated Logistics
+1187,ORL,2651,Pathmark Transportation -ORL
+1190,MEM,2670,Pathmark Transportation - MEM
+1191,MEM,2670,Pathmark Transportation - MEM
+1193,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+1194,NA,NA,NA
+1198,CHR,2662,Distribution Technology
+1199,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+1201,CHR,2662,Distribution Technology
+1202,MEM,2670,Pathmark Transportation - MEM
+1203,CHI,2625,Demar Logistics
+1207,SEA,2687,Schneider Logistics
+1209,ORL,2651,Pathmark Transportation -ORL
+1210,SLC,2647,Freight Systems Incorporated
+1211,ORL,2651,Pathmark Transportation -ORL
+1212,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+1213,DET,2686,Tantara
+1215,ORL,2651,Pathmark Transportation -ORL
+1216,DEN,2682,Freight Systems 
+1218,CHI,2625,Demar Logistics
+1221,CHR,2662,Distribution Technology
+1222,SEA,2687,Schneider Logistics
+1223,CLE,2674,Beitler Final Mile LLC
+1224,PHO,2642,Phoenix -Legacy SCS
+1225,DEN,2682,Freight Systems 
+1226,DET,2686,Tantara
+1227,SPR,2690,Palmer Dedicated Logistics
+1229,STK,2680,Glibert Company
+1230,LIS,2654,Int'l Warehouse Group
+1231,PHO,2642,Phoenix -Legacy SCS
+1232,PHO,2642,Phoenix -Legacy SCS
+1233,ATL,2689,HNRY Logistics
+1234,ORL,2651,Pathmark Transportation -ORL
+1236,BUF,2668,Regional Integrated Logistics
+1237,CHR,2662,Distribution Technology
+1238,SPR,2690,Palmer Dedicated Logistics
+1239,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+1242,DET,2686,Tantara
+1243,SPR,2690,Palmer Dedicated Logistics
+1244,SPR,2690,Palmer Dedicated Logistics
+1247,ATL,2689,HNRY Logistics
+1248,BAL,2664,International Distribution Group
+1250,KCM,2646,"24/7 Express Logistics, Inc."
+1253,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+1257,PHO,2642,Phoenix -Legacy SCS
+1258,SPR,2690,Palmer Dedicated Logistics
+1259,MEM,2670,Pathmark Transportation - MEM
+1260,SLC,2647,Freight Systems Incorporated
+1261,KCM,2646,"24/7 Express Logistics, Inc."
+1262,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+1264,CHI,2625,Demar Logistics
+1265,ATL,2689,HNRY Logistics
+1266,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+1268,ORL,2651,Pathmark Transportation -ORL
+1273,KCM,2646,"24/7 Express Logistics, Inc."
+1275,MEM,2670,Pathmark Transportation - MEM
+1278,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+1284,ATL,2689,HNRY Logistics
+1285,MEM,2670,Pathmark Transportation - MEM
+1288,BAL,2664,International Distribution Group
+1289,MEM,2670,Pathmark Transportation - MEM
+1290,MEM,2670,Pathmark Transportation - MEM
+1291,PHO,2642,Phoenix -Legacy SCS
+1292,KCM,2646,"24/7 Express Logistics, Inc."
+1294,SPR,2690,Palmer Dedicated Logistics
+1297,CLE,2674,Beitler Final Mile LLC
+1300,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+1302,ATL,2689,HNRY Logistics
+1304,MIA,2673,International Distribution Group
+1305,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+1306,MIA,2673,International Distribution Group
+1307,PHO,2642,Phoenix -Legacy SCS
+1308,CHI,2625,Demar Logistics
+1309,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+1310,SLC,2647,Freight Systems Incorporated
+1311,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+1312,MEM,2670,Pathmark Transportation - MEM
+1313,MEM,2670,Pathmark Transportation - MEM
+1314,LIS,2654,Int'l Warehouse Group
+1315,STK,2680,Glibert Company
+1316,SPR,2690,Palmer Dedicated Logistics
+1317,HOU,2659,Pathmark Transportation - HOU
+1319,STK,2680,Glibert Company
+1320,SPR,2690,Palmer Dedicated Logistics
+1321,DEN,2682,Freight Systems 
+1326,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
+1327,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+1331,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+1332,SEA,2687,Schneider Logistics
+1333,DEN,2682,Freight Systems 
+1336,SEA,2687,Schneider Logistics
+1338,ORL,2651,Pathmark Transportation -ORL
+1339,SEA,2687,Schneider Logistics
+1341,FRA,2693,"Bed Bath and Beyond #2693
+c/o Ryder Integrated Logistics, Inc."
+1342,KCM,2646,"24/7 Express Logistics, Inc."
+1343,BAL,2664,International Distribution Group
+1344,ATL,2689,HNRY Logistics
+1346,BUF,2668,Regional Integrated Logistics
+1349,CHI,2625,Demar Logistics
+1350,MEM,2670,Pathmark Transportation - MEM
+1353,ORL,2651,Pathmark Transportation -ORL
+1356,CHI,2625,Demar Logistics
+1361,DET,2686,Tantara
+1364,CLE,2674,Beitler Final Mile LLC
+1365,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+1367,ATL,2689,HNRY Logistics
+1372,SEA,2687,Schneider Logistics
+1374,CHI,2625,Demar Logistics
+1375,KCM,2646,"24/7 Express Logistics, Inc."
+1378,KCM,2646,"24/7 Express Logistics, Inc."
+1385,BUF,2668,Regional Integrated Logistics
+1386,MEM,2670,Pathmark Transportation - MEM
+1387,BAL,2664,International Distribution Group
+1391,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+1392,MEM,2670,Pathmark Transportation - MEM
+1395,KCM,2646,"24/7 Express Logistics, Inc."
+1403,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
+1404,CHI,2625,Demar Logistics
+1405,CHR,2662,Distribution Technology
+1409,ATL,2689,HNRY Logistics
+1410,SLC,2647,Freight Systems Incorporated
+1413,NA,NA,NA
+1414,SPR,2690,Palmer Dedicated Logistics
+1416,ATL,2689,HNRY Logistics
+1417,SPR,2690,Palmer Dedicated Logistics
+1422,BAL,2664,International Distribution Group
+1431,BAL,2664,International Distribution Group
+1436,SEA,2687,Schneider Logistics
+1439,NA,NA,NA
+1451,SEA,2687,Schneider Logistics
+1895,NA,NA,NA
+1896,NA,NA,NA
+1898,NA,NA,NA
+1900,NA,NA,NA
+1901,NA,NA,NA
+2001,BUF,2668,Regional Integrated Logistics
+2002,BUF,2668,Regional Integrated Logistics
+2003,BUF,2668,Regional Integrated Logistics
+2004,BUF,2668,Regional Integrated Logistics
+2006,BUF,2668,Regional Integrated Logistics
+2007,SEA,2687,Schneider Logistics
+2008,SEA,2687,Schneider Logistics
+2009,BUF,2668,Regional Integrated Logistics
+2010,BUF,2668,Regional Integrated Logistics
+2011,BUF,2668,Regional Integrated Logistics
+2012,SEA,2687,Schneider Logistics
+2013,SEA,2687,Schneider Logistics
+2014,BUF,2668,Regional Integrated Logistics
+2015,SPR,2690,Palmer Dedicated Logistics
+2017,SPR,2690,Palmer Dedicated Logistics
+2018,SEA,2687,Schneider Logistics
+2019,SEA,2687,Schneider Logistics
+2020,SEA,2687,Schneider Logistics
+2021,BUF,2668,Regional Integrated Logistics
+2022,SEA,2687,Schneider Logistics
+2023,SEA,2687,Schneider Logistics
+2024,BUF,2668,Regional Integrated Logistics
+2025,BUF,2668,Regional Integrated Logistics
+2026,BUF,2668,Regional Integrated Logistics
+2027,SEA,2687,Schneider Logistics
+2028,SEA,2687,Schneider Logistics
+2029,SPR,2690,Palmer Dedicated Logistics
+2030,SEA,2687,Schneider Logistics
+2031,SPR,2690,Palmer Dedicated Logistics
+2033,SEA,2687,Schneider Logistics
+2034,BUF,2668,Regional Integrated Logistics
+2035,BUF,2668,Regional Integrated Logistics
+2036,SPR,2690,Palmer Dedicated Logistics
+2037,SEA,2687,Schneider Logistics
+2038,BUF,2668,Regional Integrated Logistics
+2039,BUF,2668,Regional Integrated Logistics
+2040,CHI,2625,Demar Logistics
+2041,SEA,2687,Schneider Logistics
+2042,BUF,2668,Regional Integrated Logistics
+2043,CHI,2625,Demar Logistics
+2044,SEA,2687,Schneider Logistics
+2045,BUF,2668,Regional Integrated Logistics
+2046,SEA,2687,Schneider Logistics
+2047,SEA,2687,Schneider Logistics
+2050,SEA,2687,Schneider Logistics
+2051,SEA,2687,Schneider Logistics
+2052,SPR,2690,Palmer Dedicated Logistics
+2054,SEA,2687,Schneider Logistics
+2057,SEA,2687,Schneider Logistics
+2250,SEA,2687,Schneider Logistics
+2301,HOU,2659,Pathmark Transportation - HOU
+2302,HOU,2659,Pathmark Transportation - HOU
+2303,HOU,2659,Pathmark Transportation - HOU
+2304,HOU,2659,Pathmark Transportation - HOU
+2305,HOU,2659,Pathmark Transportation - HOU
+2306,HOU,2659,Pathmark Transportation - HOU
+2307,HOU,2659,Pathmark Transportation - HOU
+2308,HOU,2659,Pathmark Transportation - HOU
+2309,HOU,2659,Pathmark Transportation - HOU
+2310,HOU,2659,Pathmark Transportation - HOU
+2311,HOU,2659,Pathmark Transportation - HOU
+2500,HOU,2659,Pathmark Transportation - HOU
+2611,NA,NA,NA
+2612,NA,NA,NA
+2625,NA,NA,NA
+2642,NA,NA,NA
+2646,NA,NA,NA
+2647,NA,NA,NA
+2651,NA,NA,NA
+2654,NA,NA,NA
+2659,NA,NA,NA
+2662,NA,NA,NA
+2664,NA,NA,NA
+2666,NA,NA,NA
+2668,NA,NA,NA
+2670,NA,NA,NA
+2673,NA,NA,NA
+2674,NA,NA,NA
+2678,NA,NA,NA
+2679,NA,NA,NA
+2680,NA,NA,NA
+2681,NA,NA,NA
+2682,NA,NA,NA
+2686,NA,NA,NA
+2687,NA,NA,NA
+2689,NA,NA,NA
+2690,NA,NA,NA
+4601,NA,NA,NA
+4603,NA,NA,NA
+38100,NA,NA,NA
+43800,NA,NA,NA
+57700,NA,NA,NA
+132600,NA,NA,NA
