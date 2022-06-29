@@ -53,8 +53,8 @@ c/o Ryder Integrated Logistics, Inc."
 0082,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
 0083,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
 0085,SEA,2687,Schneider Logistics
-0086,KCM,2646,"24/7 Express Logistics, Inc."
-0087,KCM,2646,"24/7 Express Logistics, Inc."
+0086,KCM,2614,"24/7 Express Logistics, Inc."
+0087,KCM,2614,"24/7 Express Logistics, Inc."
 0088,HOU,2659,Pathmark Transportation - HOU
 0090,ORL,2651,Pathmark Transportation -ORL
 0092,MIA,2673,International Distribution Group
@@ -66,7 +66,7 @@ c/o Ryder Integrated Logistics, Inc."
 0102,SPR,2690,Palmer Dedicated Logistics
 0103,ATL,2689,HNRY Logistics
 0106,BAL,2664,International Distribution Group
-0107,KCM,2646,"24/7 Express Logistics, Inc."
+0107,KCM,2614,"24/7 Express Logistics, Inc."
 0108,CHI,2625,Demar Logistics
 0110,BAL,2664,International Distribution Group
 0111,PHO,2642,Phoenix -Legacy SCS
@@ -96,16 +96,16 @@ c/o Ryder Integrated Logistics, Inc."
 0138,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
 0139,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
 0141,HOU,2659,Pathmark Transportation - HOU
-0147,KCM,2646,"24/7 Express Logistics, Inc."
+0147,KCM,2614,"24/7 Express Logistics, Inc."
 0148,ATL,2689,HNRY Logistics
 0149,SPR,2690,Palmer Dedicated Logistics
 0150,MIA,2673,International Distribution Group
-0151,KCM,2646,"24/7 Express Logistics, Inc."
+0151,KCM,2614,"24/7 Express Logistics, Inc."
 0153,BUF,2668,Regional Integrated Logistics
 0154,ORL,2651,Pathmark Transportation -ORL
 0155,CHR,2662,Distribution Technology
 0156,BAL,2664,International Distribution Group
-0157,KCM,2646,"24/7 Express Logistics, Inc."
+0157,KCM,2614,"24/7 Express Logistics, Inc."
 0159,FRA,2693,"Bed Bath and Beyond #2693
 c/o Ryder Integrated Logistics, Inc."
 0160,FRA,2693,"Bed Bath and Beyond #2693
@@ -117,11 +117,11 @@ c/o Ryder Integrated Logistics, Inc."
 0166,DET,2686,Tantara
 0168,ATL,2689,HNRY Logistics
 0169,BAL,2664,International Distribution Group
-0170,KCM,2646,"24/7 Express Logistics, Inc."
+0170,KCM,2614,"24/7 Express Logistics, Inc."
 0171,ORL,2651,Pathmark Transportation -ORL
 0172,BAL,2664,International Distribution Group
 0173,STK,2680,Glibert Company
-0176,KCM,2646,"24/7 Express Logistics, Inc."
+0176,KCM,2614,"24/7 Express Logistics, Inc."
 0177,ATL,2689,HNRY Logistics
 0178,ORL,2651,Pathmark Transportation -ORL
 0179,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
@@ -147,13 +147,13 @@ c/o Ryder Integrated Logistics, Inc."
 0207,FRA,2693,"Bed Bath and Beyond #2693
 c/o Ryder Integrated Logistics, Inc."
 0208,SLC,2647,Freight Systems Incorporated
-0211,KCM,2646,"24/7 Express Logistics, Inc."
+0211,KCM,2614,"24/7 Express Logistics, Inc."
 0212,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
 0213,MIA,2673,International Distribution Group
 0214,ORL,2651,Pathmark Transportation -ORL
 0215,CHI,2625,Demar Logistics
 0216,SEA,2687,Schneider Logistics
-0219,KCM,2646,"24/7 Express Logistics, Inc."
+0219,KCM,2614,"24/7 Express Logistics, Inc."
 0222,CHI,2625,Demar Logistics
 0223,STK,2680,Glibert Company
 0224,FRA,2693,"Bed Bath and Beyond #2693
@@ -169,7 +169,7 @@ c/o Ryder Integrated Logistics, Inc."
 0236,ORL,2651,Pathmark Transportation -ORL
 0237,CHR,2662,Distribution Technology
 0242,CHI,2625,Demar Logistics
-0243,KCM,2646,"24/7 Express Logistics, Inc."
+0243,KCM,2614,"24/7 Express Logistics, Inc."
 0245,ORL,2651,Pathmark Transportation -ORL
 0247,LIS,2654,Int'l Warehouse Group
 0248,MEM,2670,Pathmark Transportation - MEM
@@ -194,7 +194,7 @@ c/o Ryder Integrated Logistics, Inc."
 0272,HOU,2659,Pathmark Transportation - HOU
 0273,MIA,2673,International Distribution Group
 0275,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
-0278,KCM,2646,"24/7 Express Logistics, Inc."
+0278,KCM,2614,"24/7 Express Logistics, Inc."
 0279,DEN,2682,Freight Systems 
 0280,ATL,2689,HNRY Logistics
 0282,ORL,2651,Pathmark Transportation -ORL
@@ -235,9 +235,9 @@ c/o Ryder Integrated Logistics, Inc."
 0322,CHI,2625,Demar Logistics
 0324,BAL,2664,International Distribution Group
 0325,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
-0326,KCM,2646,"24/7 Express Logistics, Inc."
+0326,KCM,2614,"24/7 Express Logistics, Inc."
 0327,CHR,2662,Distribution Technology
-0328,KCM,2646,"24/7 Express Logistics, Inc."
+0328,KCM,2614,"24/7 Express Logistics, Inc."
 0330,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
 0331,STK,2680,Glibert Company
 0333,SLC,2647,Freight Systems Incorporated
@@ -275,7 +275,7 @@ c/o Ryder Integrated Logistics, Inc."
 0377,FRA,2693,"Bed Bath and Beyond #2693
 c/o Ryder Integrated Logistics, Inc."
 0378,DET,2686,Tantara
-0379,KCM,2646,"24/7 Express Logistics, Inc."
+0379,KCM,2614,"24/7 Express Logistics, Inc."
 0380,SPR,2690,Palmer Dedicated Logistics
 0381,ORL,2651,Pathmark Transportation -ORL
 0383,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
@@ -330,7 +330,7 @@ c/o Ryder Integrated Logistics, Inc."
 0440,CHR,2662,Distribution Technology
 0442,HOU,2659,Pathmark Transportation - HOU
 0443,HOU,2659,Pathmark Transportation - HOU
-0444,KCM,2646,"24/7 Express Logistics, Inc."
+0444,KCM,2614,"24/7 Express Logistics, Inc."
 0445,SEA,2687,Schneider Logistics
 0446,DET,2686,Tantara
 0447,BUF,2668,Regional Integrated Logistics
@@ -341,7 +341,7 @@ c/o Ryder Integrated Logistics, Inc."
 0454,MIA,2673,International Distribution Group
 0456,CHI,2625,Demar Logistics
 0457,CHI,2625,Demar Logistics
-0460,KCM,2646,"24/7 Express Logistics, Inc."
+0460,KCM,2614,"24/7 Express Logistics, Inc."
 0461,BUF,2668,Regional Integrated Logistics
 0462,CLE,2674,Beitler Final Mile LLC
 0463,SEA,2687,Schneider Logistics
@@ -371,7 +371,7 @@ c/o Ryder Integrated Logistics, Inc."
 0487,SPR,2690,Palmer Dedicated Logistics
 0488,STK,2680,Glibert Company
 0489,STK,2680,Glibert Company
-0490,KCM,2646,"24/7 Express Logistics, Inc."
+0490,KCM,2614,"24/7 Express Logistics, Inc."
 0491,PHO,2642,Phoenix -Legacy SCS
 0492,MEM,2670,Pathmark Transportation - MEM
 0494,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
@@ -444,7 +444,7 @@ c/o Ryder Integrated Logistics, Inc."
 0581,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
 0582,MEM,2670,Pathmark Transportation - MEM
 0583,STK,2680,Glibert Company
-0584,KCM,2646,"24/7 Express Logistics, Inc."
+0584,KCM,2614,"24/7 Express Logistics, Inc."
 0585,HOU,2659,Pathmark Transportation - HOU
 0587,STK,2680,Glibert Company
 0588,CHI,2625,Demar Logistics
@@ -478,7 +478,7 @@ c/o Ryder Integrated Logistics, Inc."
 0636,STK,2680,Glibert Company
 0640,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
 0644,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
-0650,NA,NA,NA
+0650,SEC,650,Bed Bath Beyond Store 650
 0651,NA,NA,NA
 0653,NA,NA,NA
 0655,NA,NA,NA
@@ -501,7 +501,7 @@ c/o Ryder Integrated Logistics, Inc."
 0757,BUF,2668,Regional Integrated Logistics
 0759,ORL,2651,Pathmark Transportation -ORL
 0760,SEA,2687,Schneider Logistics
-0761,KCM,2646,"24/7 Express Logistics, Inc."
+0761,KCM,2614,"24/7 Express Logistics, Inc."
 0762,DET,2686,Tantara
 0763,SPR,2690,Palmer Dedicated Logistics
 0764,SLC,2647,Freight Systems Incorporated
@@ -511,7 +511,7 @@ c/o Ryder Integrated Logistics, Inc."
 0768,CLE,2674,Beitler Final Mile LLC
 0769,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
 0770,LIS,2654,Int'l Warehouse Group
-0771,KCM,2646,"24/7 Express Logistics, Inc."
+0771,KCM,2614,"24/7 Express Logistics, Inc."
 0772,CHR,2662,Distribution Technology
 0773,MEM,2670,Pathmark Transportation - MEM
 0774,CHR,2662,Distribution Technology
@@ -565,7 +565,7 @@ c/o Ryder Integrated Logistics, Inc."
 0844,SPR,2690,Palmer Dedicated Logistics
 0845,HOU,2659,Pathmark Transportation - HOU
 0846,MIA,2673,International Distribution Group
-0848,KCM,2646,"24/7 Express Logistics, Inc."
+0848,KCM,2614,"24/7 Express Logistics, Inc."
 0849,SPR,2690,Palmer Dedicated Logistics
 0850,LIS,2654,Int'l Warehouse Group
 0851,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
@@ -580,7 +580,7 @@ c/o Ryder Integrated Logistics, Inc."
 1019,FRA,2693,"Bed Bath and Beyond #2693
 c/o Ryder Integrated Logistics, Inc."
 1020,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
-1021,KCM,2646,"24/7 Express Logistics, Inc."
+1021,KCM,2614,"24/7 Express Logistics, Inc."
 1022,CHR,2662,Distribution Technology
 1023,SPR,2690,Palmer Dedicated Logistics
 1024,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
@@ -596,12 +596,12 @@ c/o Ryder Integrated Logistics, Inc."
 c/o Ryder Integrated Logistics, Inc."
 1040,FRA,2693,"Bed Bath and Beyond #2693
 c/o Ryder Integrated Logistics, Inc."
-1041,KCM,2646,"24/7 Express Logistics, Inc."
+1041,KCM,2614,"24/7 Express Logistics, Inc."
 1043,CLE,2674,Beitler Final Mile LLC
 1044,SPR,2690,Palmer Dedicated Logistics
 1045,BAL,2664,International Distribution Group
 1047,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
-1050,KCM,2646,"24/7 Express Logistics, Inc."
+1050,KCM,2614,"24/7 Express Logistics, Inc."
 1052,DEN,2682,Freight Systems 
 1053,CLE,2674,Beitler Final Mile LLC
 1056,BUF,2668,Regional Integrated Logistics
@@ -609,7 +609,7 @@ c/o Ryder Integrated Logistics, Inc."
 1061,CLE,2674,Beitler Final Mile LLC
 1062,MEM,2670,Pathmark Transportation - MEM
 1063,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
-1065,KCM,2646,"24/7 Express Logistics, Inc."
+1065,KCM,2614,"24/7 Express Logistics, Inc."
 1068,SEA,2687,Schneider Logistics
 1069,HOU,2659,Pathmark Transportation - HOU
 1072,SLC,2647,Freight Systems Incorporated
@@ -663,12 +663,12 @@ c/o Ryder Integrated Logistics, Inc."
 1137,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
 1138,ORL,2651,Pathmark Transportation -ORL
 1139,STK,2680,Glibert Company
-1142,KCM,2646,"24/7 Express Logistics, Inc."
+1142,KCM,2614,"24/7 Express Logistics, Inc."
 1143,ORL,2651,Pathmark Transportation -ORL
 1145,DET,2686,Tantara
 1147,DEN,2682,Freight Systems 
 1148,PHO,2642,Phoenix -Legacy SCS
-1149,KCM,2646,"24/7 Express Logistics, Inc."
+1149,KCM,2614,"24/7 Express Logistics, Inc."
 1150,SPR,2690,Palmer Dedicated Logistics
 1151,PHO,2642,Phoenix -Legacy SCS
 1153,SPR,2690,Palmer Dedicated Logistics
@@ -733,19 +733,19 @@ c/o Ryder Integrated Logistics, Inc."
 1244,SPR,2690,Palmer Dedicated Logistics
 1247,ATL,2689,HNRY Logistics
 1248,BAL,2664,International Distribution Group
-1250,KCM,2646,"24/7 Express Logistics, Inc."
+1250,KCM,2614,"24/7 Express Logistics, Inc."
 1253,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
 1257,PHO,2642,Phoenix -Legacy SCS
 1258,SPR,2690,Palmer Dedicated Logistics
 1259,MEM,2670,Pathmark Transportation - MEM
 1260,SLC,2647,Freight Systems Incorporated
-1261,KCM,2646,"24/7 Express Logistics, Inc."
+1261,KCM,2614,"24/7 Express Logistics, Inc."
 1262,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
 1264,CHI,2625,Demar Logistics
 1265,ATL,2689,HNRY Logistics
 1266,SCA,2613,Bed Bath and Beyond #2613 c/o Taylored Services
 1268,ORL,2651,Pathmark Transportation -ORL
-1273,KCM,2646,"24/7 Express Logistics, Inc."
+1273,KCM,2614,"24/7 Express Logistics, Inc."
 1275,MEM,2670,Pathmark Transportation - MEM
 1278,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
 1284,ATL,2689,HNRY Logistics
@@ -754,7 +754,7 @@ c/o Ryder Integrated Logistics, Inc."
 1289,MEM,2670,Pathmark Transportation - MEM
 1290,MEM,2670,Pathmark Transportation - MEM
 1291,PHO,2642,Phoenix -Legacy SCS
-1292,KCM,2646,"24/7 Express Logistics, Inc."
+1292,KCM,2614,"24/7 Express Logistics, Inc."
 1294,SPR,2690,Palmer Dedicated Logistics
 1297,CLE,2674,Beitler Final Mile LLC
 1300,FRA,2693,"Bed Bath and Beyond #2693
@@ -791,7 +791,7 @@ c/o Ryder Integrated Logistics, Inc."
 1339,SEA,2687,Schneider Logistics
 1341,FRA,2693,"Bed Bath and Beyond #2693
 c/o Ryder Integrated Logistics, Inc."
-1342,KCM,2646,"24/7 Express Logistics, Inc."
+1342,KCM,2614,"24/7 Express Logistics, Inc."
 1343,BAL,2664,International Distribution Group
 1344,ATL,2689,HNRY Logistics
 1346,BUF,2668,Regional Integrated Logistics
@@ -805,14 +805,14 @@ c/o Ryder Integrated Logistics, Inc."
 1367,ATL,2689,HNRY Logistics
 1372,SEA,2687,Schneider Logistics
 1374,CHI,2625,Demar Logistics
-1375,KCM,2646,"24/7 Express Logistics, Inc."
-1378,KCM,2646,"24/7 Express Logistics, Inc."
+1375,KCM,2614,"24/7 Express Logistics, Inc."
+1378,KCM,2614,"24/7 Express Logistics, Inc."
 1385,BUF,2668,Regional Integrated Logistics
 1386,MEM,2670,Pathmark Transportation - MEM
 1387,BAL,2664,International Distribution Group
 1391,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
 1392,MEM,2670,Pathmark Transportation - MEM
-1395,KCM,2646,"24/7 Express Logistics, Inc."
+1395,KCM,2614,"24/7 Express Logistics, Inc."
 1403,DAL,2694,Bed Bath and Beyond #2694 c/o JW Logistics
 1404,CHI,2625,Demar Logistics
 1405,CHR,2662,Distribution Technology
